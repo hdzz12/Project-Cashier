@@ -32,9 +32,9 @@
             panel4 = new Panel();
             tableLayoutPanel1 = new TableLayoutPanel();
             panel2 = new Panel();
+            button1 = new Button();
             textBox1 = new TextBox();
             panel3 = new Panel();
-            button1 = new Button();
             panel1.SuspendLayout();
             panel2.SuspendLayout();
             SuspendLayout();
@@ -83,6 +83,17 @@
             panel2.Size = new Size(1126, 34);
             panel2.TabIndex = 1;
             // 
+            // button1
+            // 
+            button1.BackColor = Color.Red;
+            button1.Location = new Point(3, 0);
+            button1.Name = "button1";
+            button1.Size = new Size(94, 34);
+            button1.TabIndex = 0;
+            button1.Text = "Logout";
+            button1.UseVisualStyleBackColor = false;
+            button1.Click += btnlogout_Click;
+            // 
             // textBox1
             // 
             textBox1.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
@@ -99,17 +110,6 @@
             panel3.Name = "panel3";
             panel3.Size = new Size(693, 103);
             panel3.TabIndex = 1;
-            // 
-            // button1
-            // 
-            button1.BackColor = Color.Red;
-            button1.Location = new Point(3, 0);
-            button1.Name = "button1";
-            button1.Size = new Size(94, 34);
-            button1.TabIndex = 0;
-            button1.Text = "Logout";
-            button1.UseVisualStyleBackColor = false;
-            button1.Click += btnlogout_Click;
             // 
             // Beranda
             // 

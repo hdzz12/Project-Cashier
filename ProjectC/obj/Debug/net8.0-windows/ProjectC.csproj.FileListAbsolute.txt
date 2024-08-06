@@ -99,3 +99,4 @@ C:\Users\miito\source\repos\ProjectC\ProjectC\bin\Debug\net8.0-windows\zh-Hans\M
 C:\Users\miito\source\repos\ProjectC\ProjectC\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\miito\source\repos\ProjectC\ProjectC\obj\Debug\net8.0-windows\ProjectC.LoginForm.resources
 C:\Users\miito\source\repos\ProjectC\ProjectC\obj\Debug\net8.0-windows\ProjectC.csproj.Up2Date
+C:\Users\miito\source\repos\ProjectC\ProjectC\obj\Debug\net8.0-windows\ProjectC.sourcelink.json

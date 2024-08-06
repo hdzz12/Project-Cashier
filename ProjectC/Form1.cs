@@ -18,8 +18,8 @@ namespace ProjectC
 
         private void btn1_click(object sender, EventArgs e)
         {
-            LoginForm Beranda = new LoginForm();
-            Beranda.Show();
+            Beranda LoginForm = new Beranda();
+            LoginForm.Show();
             this.Close();
         }
 

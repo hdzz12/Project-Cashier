@@ -24,7 +24,9 @@ namespace ProjectC
 
         private void btnlogout_Click(object sender, EventArgs e)
         {
-
+            LoginForm Beranda = new LoginForm();
+            Beranda.Show();
+            this.Hide();
         }
     }
 }

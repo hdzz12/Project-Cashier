@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\miito\\source\\repos\\ProjectC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D0F8ABF-024C-413A-8C79-DACFC729199D}|ProjectC\\ProjectC.csproj|C:\\Users\\miito\\source\\repos\\ProjectC\\projectc\\beranda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9D0F8ABF-024C-413A-8C79-DACFC729199D}|ProjectC\\ProjectC.csproj|solutionrelative:projectc\\beranda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D0F8ABF-024C-413A-8C79-DACFC729199D}|ProjectC\\ProjectC.csproj|C:\\Users\\miito\\source\\repos\\ProjectC\\projectc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9D0F8ABF-024C-413A-8C79-DACFC729199D}|ProjectC\\ProjectC.csproj|solutionrelative:projectc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9D0F8ABF-024C-413A-8C79-DACFC729199D}|ProjectC\\ProjectC.csproj|c:\\users\\miito\\source\\repos\\projectc\\projectc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D0F8ABF-024C-413A-8C79-DACFC729199D}|ProjectC\\ProjectC.csproj|solutionrelative:projectc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D0F8ABF-024C-413A-8C79-DACFC729199D}|ProjectC\\ProjectC.csproj|c:\\users\\miito\\source\\repos\\projectc\\projectc\\beranda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D0F8ABF-024C-413A-8C79-DACFC729199D}|ProjectC\\ProjectC.csproj|solutionrelative:projectc\\beranda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0F8ABF-024C-413A-8C79-DACFC729199D}|ProjectC\\ProjectC.csproj|C:\\Users\\miito\\source\\repos\\ProjectC\\projectc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D0F8ABF-024C-413A-8C79-DACFC729199D}|ProjectC\\ProjectC.csproj|solutionrelative:projectc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0F8ABF-024C-413A-8C79-DACFC729199D}|ProjectC\\ProjectC.csproj|c:\\users\\miito\\source\\repos\\projectc\\projectc\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0F8ABF-024C-413A-8C79-DACFC729199D}|ProjectC\\ProjectC.csproj|solutionrelative:projectc\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0F8ABF-024C-413A-8C79-DACFC729199D}|ProjectC\\ProjectC.csproj|c:\\users\\miito\\source\\repos\\projectc\\projectc\\beranda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D0F8ABF-024C-413A-8C79-DACFC729199D}|ProjectC\\ProjectC.csproj|solutionrelative:projectc\\beranda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D0F8ABF-024C-413A-8C79-DACFC729199D}|ProjectC\\ProjectC.csproj|c:\\users\\miito\\source\\repos\\projectc\\projectc\\model\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9D0F8ABF-024C-413A-8C79-DACFC729199D}|ProjectC\\ProjectC.csproj|c:\\users\\miito\\source\\repos\\projectc\\projectc\\projectc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{9D0F8ABF-024C-413A-8C79-DACFC729199D}|ProjectC\\ProjectC.csproj|solutionrelative:projectc\\projectc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D0F8ABF-024C-413A-8C79-DACFC729199D}|ProjectC\\ProjectC.csproj|c:\\users\\miito\\source\\repos\\projectc\\projectc\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D0F8ABF-024C-413A-8C79-DACFC729199D}|ProjectC\\ProjectC.csproj|solutionrelative:projectc\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,37 +46,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 292,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Beranda.cs",
               "DocumentMoniker": "C:\\Users\\miito\\source\\repos\\ProjectC\\ProjectC\\Beranda.cs",
               "RelativeDocumentMoniker": "ProjectC\\Beranda.cs",
               "ToolTip": "C:\\Users\\miito\\source\\repos\\ProjectC\\ProjectC\\Beranda.cs",
               "RelativeToolTip": "ProjectC\\Beranda.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAwBEAAAAJAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wBoAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-02T07:27:49.533Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\miito\\source\\repos\\ProjectC\\ProjectC\\Form1.cs",
               "RelativeDocumentMoniker": "ProjectC\\Form1.cs",
               "ToolTip": "C:\\Users\\miito\\source\\repos\\ProjectC\\ProjectC\\Form1.cs",
               "RelativeToolTip": "ProjectC\\Form1.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBsAAAAAAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBUAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-02T07:46:47.368Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\miito\\source\\repos\\ProjectC\\ProjectC\\Form1.cs",
               "RelativeDocumentMoniker": "ProjectC\\Form1.cs",
@@ -88,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Beranda.cs [Design]",
               "DocumentMoniker": "C:\\Users\\miito\\source\\repos\\ProjectC\\ProjectC\\Beranda.cs",
               "RelativeDocumentMoniker": "ProjectC\\Beranda.cs",
@@ -100,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Sale.cs",
               "DocumentMoniker": "C:\\Users\\miito\\source\\repos\\ProjectC\\ProjectC\\Model\\Sale.cs",
               "RelativeDocumentMoniker": "ProjectC\\Model\\Sale.cs",
@@ -108,12 +108,11 @@
               "RelativeToolTip": "ProjectC\\Model\\Sale.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T02:30:46.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T02:30:46.777Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\miito\\source\\repos\\ProjectC\\ProjectC\\Program.cs",
               "RelativeDocumentMoniker": "ProjectC\\Program.cs",
@@ -125,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\miito\\source\\repos\\ProjectC\\ProjectC\\Model\\User.cs",
               "RelativeDocumentMoniker": "ProjectC\\Model\\User.cs",
@@ -137,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ProjectC.csproj",
               "DocumentMoniker": "C:\\Users\\miito\\source\\repos\\ProjectC\\ProjectC\\ProjectC.csproj",
               "RelativeDocumentMoniker": "ProjectC\\ProjectC.csproj",
@@ -149,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Database.cs",
               "DocumentMoniker": "C:\\Users\\miito\\source\\repos\\ProjectC\\ProjectC\\Database.cs",
               "RelativeDocumentMoniker": "ProjectC\\Database.cs",
@@ -157,7 +156,8 @@
               "RelativeToolTip": "ProjectC\\Database.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T04:11:51.217Z"
+              "WhenOpened": "2024-07-30T04:11:51.217Z",
+              "EditorCaption": ""
             }
           ]
         },
