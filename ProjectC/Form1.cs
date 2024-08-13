@@ -13,17 +13,22 @@ namespace ProjectC
         }
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            new Beranda().Show();
         }
 
         private void btn1_click(object sender, EventArgs e)
         {
-            Beranda LoginForm = new Beranda();
-            LoginForm.Show();
+            LoginForm Beranda = new LoginForm();
+            Beranda.Show();
             this.Close();
         }
 
         private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
         }

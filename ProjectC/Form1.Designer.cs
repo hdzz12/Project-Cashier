@@ -34,8 +34,8 @@
             label1 = new Label();
             label2 = new Label();
             panel1 = new Panel();
-            label3 = new Label();
             label4 = new Label();
+            label3 = new Label();
             panel1.SuspendLayout();
             SuspendLayout();
             // 
@@ -47,6 +47,7 @@
             textBox1.PlaceholderText = "Username";
             textBox1.Size = new Size(264, 34);
             textBox1.TabIndex = 0;
+            textBox1.TextChanged += textBox1_TextChanged;
             // 
             // btnlogin
             // 
@@ -99,15 +100,6 @@
             panel1.Size = new Size(457, 444);
             panel1.TabIndex = 5;
             // 
-            // label3
-            // 
-            label3.AutoSize = true;
-            label3.Location = new Point(164, 164);
-            label3.Name = "label3";
-            label3.Size = new Size(0, 25);
-            label3.TabIndex = 3;
-            label3.Click += label3_Click;
-            // 
             // label4
             // 
             label4.AutoSize = true;
@@ -117,6 +109,15 @@
             label4.Size = new Size(135, 48);
             label4.TabIndex = 3;
             label4.Text = "LOGIN";
+            // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.Location = new Point(164, 164);
+            label3.Name = "label3";
+            label3.Size = new Size(0, 25);
+            label3.TabIndex = 3;
+            label3.Click += label3_Click;
             // 
             // LoginForm
             // 
